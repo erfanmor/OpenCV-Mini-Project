@@ -2,7 +2,7 @@
 
 - **Attention: This project only for Getting to know OpenCV and work with it.**
 
-## TollsClass Features :
+## ToolsClass Features :
 
 - Object Detection
 - Geometrics Shapes Detection
